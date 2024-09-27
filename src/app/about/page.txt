@@ -1,0 +1,43 @@
+                    <div className="grid grid-cols-1 gap-8 lg:mt-20">
+
+                        <div className="language pb-5 pt-5">
+                            <p className="text-lg font-semibold mb-3">Les langages que je maîtrise</p>
+                            <div className="flex flex-wrap gap-3">
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">Python</span>
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">C#</span>
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">Java</span>
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">JavaScript</span>
+                            </div>
+                        </div>
+
+                        <div className="framework pb-5 pt-5">
+                            <p className="text-lg font-semibold mb-3">Les frameworks que j'utilise souvent</p>
+                            <div className="flex flex-wrap gap-3">
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">React</span>
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">Vue</span>
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">Tailwind</span>
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">Bootstrap</span>
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">Spring</span>
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">Django</span>
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">ASP.NET</span>
+                            </div>
+                        </div>
+
+                        <div className="library pb-5 pt-5">
+                            <p className="text-lg font-semibold mb-3">Les librairies que j'utilise souvent</p>
+                            <div className="flex flex-wrap gap-3">
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">Pandas</span>
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">NumPy</span>
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">MUI React</span>
+                            </div>
+                        </div>
+
+                        <div className="design pb-5 pt-5">
+                            <p className="text-lg font-semibold mb-3">Outils de Design</p>
+                            <div className="flex flex-wrap gap-3">
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">Adobe XD</span>
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">Figma</span>
+                                <span style={{border:'1px solid #b6b6b7',color:'#b6b6b7'}} className="text-sm rounded-full px-3 py-0.5">Illustrator</span>
+                            </div>
+                        </div>
+                    </div>
