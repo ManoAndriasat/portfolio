@@ -141,7 +141,72 @@ const About = () => {
                                 </div>
                             </div>
 
+                            <div className="p-2 grid grid-cols-12 gap-0 mb-5">
+                                <div className="col-span-4 text-sm italic opacity-70" >
+                                    fev - mar 2024
+                                </div>
+                                <div className="col-span-8">
+                                    <h1 className="font-bold mb-1">Système commerciale <span className="italic text-sm" style={{ color: '#9a53d1' }}>java - vueJs</span></h1>
+                                    <p className="text-white opacity-70">
+                                        generateur de CRUD d'un API: Spring Boot INTERFACE WEB: Vue js a partir d'un base de donnees
+                                    </p>
+                                    <p className="text-white opacity-70">
+                                        projet de groupe de 2 personnes, j'ai contribue a 50% du projet
+                                    </p>
+                                    <a href="https://github.com/judi1968/Generate-crud-Pagination-and-Auth"
+                                        className="flex items-center"
+                                        style={{ color: 'rgba(239,99,81,255)' }}
+                                        target="_blank"
+                                        rel="noopener noreferrer">
+                                        voir sur github <GitHub fontSize="small" className="ml-1" />
+                                    </a>
+                                </div>
+                            </div>
 
+                            <div className="p-2 grid grid-cols-12 gap-0 mb-5">
+                                <div className="col-span-4 text-sm italic opacity-70" >
+                                    dec 2023 - fev 2024
+                                </div>
+                                <div className="col-span-8">
+                                    <h1 className="font-bold mb-1">Site de vente de voiture d'occasion <span className="italic text-sm" style={{ color: '#9a53d1' }}>react</span></h1>
+                                    <p className="text-white opacity-70">
+                                        C'est un site web dédié à la vente de voitures d'occasion, avec des filtres avancés pour faciliter la recherche et trouver facilement la voiture adaptée à vos besoins.
+                                        Que vous cherchiez par marque, modèle, prix ou autres critères.
+                                    </p>
+                                    <p className="text-white opacity-70">
+                                        Projet de groupe de 4 personnes, j'ai contribué à 95% de la partie front-end.
+                                    </p>
+                                    <a href="https://varotravam.netlify.app/"
+                                        className="flex items-center"
+                                        style={{ color: 'rgba(239,99,81,255)' }}
+                                        target="_blank"
+                                        rel="noopener noreferrer">
+                                        voir le site web <Launch fontSize="small" className="ml-1" />
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div className="p-2 grid grid-cols-12 gap-0 mb-5">
+                                <div className="col-span-4 text-sm italic opacity-70" >
+                                    jan - fev 2024
+                                </div>
+                                <div className="col-span-8">
+                                    <h1 className="font-bold mb-1">Application android - gestion vente voiture <span className="italic text-sm" style={{ color: '#9a53d1' }}>ionic react</span></h1>
+                                    <p className="text-white opacity-70">
+                                        C'est une application mobile qui permet de gérer les ventes de voitures d'occasion le site web, enregistrer les informations des clients et des véhicules.
+                                    </p>
+                                    <p className="text-white opacity-70">
+                                        Projet de groupe de 4 personnes, j'ai contribué à 100% de l'interface mobile ainsi que le deployement.
+                                    </p>
+                                    <a href="https://drive.google.com/file/d/1AlMbnATO4C2aezuQ2OzbaDKpsmK8SJGD/view?fbclid=IwY2xjawFjrThleHRuA2FlbQIxMAABHeJEhGilXkSdTxsX6agX3ZrVkxBlWxLfyd6ohzhCPjU1DKWGwTt_kLgNQQ_aem_jM1e_5ZXlAdO0W4WgI1K4w"
+                                        className="flex items-center"
+                                        style={{ color: 'rgba(239,99,81,255)' }}
+                                        target="_blank"
+                                        rel="noopener noreferrer">
+                                        telecharger <Launch fontSize="small" className="ml-1" />
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
