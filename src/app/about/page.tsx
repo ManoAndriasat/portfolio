@@ -1,5 +1,5 @@
 import React from "react";
-import { Facebook, Twitter, Instagram, LinkedIn, GitHub, Launch } from "@mui/icons-material";
+import { Facebook, LinkedIn, GitHub, Launch } from "@mui/icons-material";
 
 const About = () => {
 
@@ -7,7 +7,6 @@ const About = () => {
         <>
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-0 h-screen">
                 <div className="h-0 col-span-1 lg:col-span-2 lg:h-screen bg-transparent"></div>
-
                 <div className="p-4 lg:col-span-4 lg:h-screen">
                     <div className="lg:pt-20 lg:pl-10 sm:pt-5 md:pt-5 relative h-full">
                         <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">
@@ -18,26 +17,37 @@ const About = () => {
                         <h2 className="mt-3 text-lg font-medium tracking-tight sm:text-xl">
                             Designer / Front-end Developer
                         </h2>
-
-                        <div className="mt-20 lg:mt-0 lg:absolute bottom-1 left-0 flex items-center lg:pl-8 lg:p-4 lg:flex-col">
+                        <footer className="mt-20 lg:mt-0 lg:absolute bottom-1 left-0 flex items-center lg:pl-8 lg:p-4 lg:flex-col" aria-label="Réseaux sociaux de Mano Andriasat">
                             <ul className="flex lg:flex-col">
                                 <li className="mr-4 lg:mr-0 lg:mb-4 flex items-center">
-                                    <Facebook className="mr-2" />
+                                    <a href="https://www.facebook.com/mano.andriasat?locale=fr_FR"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    aria-label="Suivez-moi sur Facebook"
+                                    title="Facebook">
+                                        <Facebook className="mr-2" />
+                                    </a>
                                 </li>
                                 <li className="mr-4 lg:mr-0 lg:mb-4 flex items-center">
-                                    <Twitter className="mr-2" />
+                                    <a href="https://www.linkedin.com/in/manohisoa-andriasatarintsoa-5894a1304/"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    aria-label="Suivez-moi sur LinkedIn"
+                                    title="LinkedIn">
+                                        <LinkedIn className="mr-2" />
+                                    </a>
                                 </li>
                                 <li className="mr-4 lg:mr-0 lg:mb-4 flex items-center">
-                                    <Instagram className="mr-2" />
-                                </li>
-                                <li className="mr-4 lg:mr-0 lg:mb-4 flex items-center">
-                                    <LinkedIn className="mr-2" />
-                                </li>
-                                <li className="mr-4 lg:mr-0 lg:mb-4 flex items-center">
-                                    <GitHub className="mr-2" />
+                                    <a href="https://github.com/ManoAndriasat"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    aria-label="Suivez-moi sur GitHub"
+                                    title="GitHub">
+                                        <GitHub className="mr-2" />
+                                    </a>
                                 </li>
                             </ul>
-                        </div>
+                        </footer>
                     </div>
                 </div>
 
