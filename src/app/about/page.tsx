@@ -1,16 +1,11 @@
 import React from 'react';
 import { Facebook, Twitter, Instagram, LinkedIn, GitHub, Launch } from '@mui/icons-material';
-import Head from 'next/head';
 
 const About = () => {
 
 
     return (
         <>
-            <Head>
-                <meta name="description" content="Page À propos de Mano Andriasat, un développeur dynamique basé à Antananarivo, Madagascar." />
-                <meta name="keywords" content="Mano Andriasat, développeur, front-end, Antananarivo, Madagascar" />
-            </Head>
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-0 h-screen">
                 <div className="h-0 col-span-1 lg:col-span-2 lg:h-screen bg-transparent"></div>
 
