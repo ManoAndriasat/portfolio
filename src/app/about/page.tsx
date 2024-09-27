@@ -44,12 +44,6 @@ const About = () => {
                 <div className="p-4 lg:col-span-6 lg:h-screen lg:overflow-y-auto bg-transparent">
                     <div className="w-full lg:w-8/12 lg:mt-20">
                         <h2 className="text-sm font-bold uppercase tracking-widest lg:sr-only pb-5">A Propos</h2>
-                        <p className="text-white opacity-70">Je suis un développeur dynamique, capable de m&apos;adapter à différentes
-                            technologies et environnements de travail. Habitué à travailler sous
-                            pression, je sais collaborer efficacement en équipe. Grâce à ma capacité
-                            à utiliser des outils d&apos;intelligence artificielle, je peux accomplir rapidement
-                            les tâches assignées, respectant toujours les délais impartis sans chercher
-                            d&apos;excuses ni de faux problèmes.</p>
 
                         <p className="mt-5 text-white" style={{ color: "#b6b6b7" }}>
                             J&apos;ai <strong style={{ color: "white", fontWeight: "bold" }}>20 ans</strong> et je réside à <strong style={{ color: "white", fontWeight: "bold" }}>Antananarivo, Madagascar</strong>.
