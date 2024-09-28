@@ -100,6 +100,7 @@ const About = () => {
 
                             <div className="flex flex-wrap gap-3">
                                 <span style={{ border: "1px solid #b6b6b7", color: "#b6b6b7" }} className="text-sm rounded px-3 py-0.5">python</span>
+                                <span style={{ border: "1px solid #b6b6b7", color: "#b6b6b7" }} className="text-sm rounded px-3 py-0.5">django</span>
                                 <span style={{ border: "1px solid #b6b6b7", color: "#b6b6b7" }} className="text-sm rounded px-3 py-0.5">react</span>
                                 <span style={{ border: "1px solid #b6b6b7", color: "#b6b6b7" }} className="text-sm rounded px-3 py-0.5">next.js</span>
                                 <span style={{ border: "1px solid #b6b6b7", color: "#b6b6b7" }} className="text-sm rounded px-3 py-0.5">postgresql</span>
