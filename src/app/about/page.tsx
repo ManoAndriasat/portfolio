@@ -54,8 +54,7 @@ const About = () => {
                 <div className="p-4 lg:col-span-6 lg:h-screen lg:overflow-y-auto bg-transparent">
                     <div className="w-full lg:w-8/12 lg:mt-20">
                         <h2 className="text-sm font-bold uppercase tracking-widest lg:sr-only pb-5">A Propos</h2>
-
-                        <p className="mt-5 text-white" style={{ color: "#b6b6b7" }}>
+                        <p className="text-white" style={{ color: "#b6b6b7" }}>
                             J&apos;ai <strong style={{ color: "white", fontWeight: "bold" }}>20 ans</strong> et je réside à <strong style={{ color: "white", fontWeight: "bold" }}>Antananarivo, Madagascar</strong>.
                             Depuis <strong style={{ color: "white", fontWeight: "bold" }}>2021</strong>, je poursuis mes études à <strong style={{ color: "white", fontWeight: "bold" }}>l&apos;IT University Andoharanofotsy</strong>,
                             où je me spécialise dans le <strong style={{ color: "white", fontWeight: "bold" }}>développement</strong>. Actuellement, je suis en <strong style={{ color: "white", fontWeight: "bold" }}>L3</strong> et je me consacre
@@ -64,7 +63,7 @@ const About = () => {
                             de nouvelles opportunités pour appliquer mes connaissances et contribuer à des projets significatifs. Je suis un étudiant motivé et prêt à relever de nouveaux défis.
                         </p>
 
-                        <h2 className="text-sm font-bold uppercase tracking-widest lg:sr-only pb-5 pt-5">Experience</h2>
+                        <h2 className="text-sm font-bold uppercase tracking-widest lg:sr-only pb-5 pt-5 mt:10">Experience</h2>
 
                         <div className="grid grid-cols-1 gap-2 lg:mt-20">
                             <div className="border p-2 grid grid-cols-12 gap-0 mb-5" style={{ boxShadow: "10px 5px 0 #6bff89" }}>
@@ -94,7 +93,7 @@ const About = () => {
                             </div>
                         </div>
 
-                        <h2 className="text-sm font-bold uppercase tracking-widest lg:sr-only pb-5 pt-5">Skills</h2>
+                        <h2 className="text-sm font-bold uppercase tracking-widest lg:sr-only pb-5 pt-5 mt:10">Skills</h2>
 
                         <div className="grid grid-cols-1 gap-2 lg:mt-20">
                             <p className="text-white">Quelque technologie que j&apos;ai utiliser <span className="italic text-sm" style={{ color: "#9a53d1" }}>@recemment</span> </p>
@@ -102,13 +101,14 @@ const About = () => {
                             <div className="flex flex-wrap gap-3">
                                 <span style={{ border: "1px solid #b6b6b7", color: "#b6b6b7" }} className="text-sm rounded px-3 py-0.5">python</span>
                                 <span style={{ border: "1px solid #b6b6b7", color: "#b6b6b7" }} className="text-sm rounded px-3 py-0.5">react</span>
+                                <span style={{ border: "1px solid #b6b6b7", color: "#b6b6b7" }} className="text-sm rounded px-3 py-0.5">next.js</span>
                                 <span style={{ border: "1px solid #b6b6b7", color: "#b6b6b7" }} className="text-sm rounded px-3 py-0.5">postgresql</span>
                                 <span style={{ border: "1px solid #b6b6b7", color: "#b6b6b7" }} className="text-sm rounded px-3 py-0.5">bootstrap</span>
                                 <span style={{ border: "1px solid #b6b6b7", color: "#b6b6b7" }} className="text-sm rounded px-3 py-0.5">tailwind</span>
                             </div>
                         </div>
 
-                        <h2 className="text-sm font-bold uppercase tracking-widest lg:sr-only pb-5 pt-5">Projet recent</h2>
+                        <h2 className="text-sm font-bold uppercase tracking-widest lg:sr-only pb-5 pt-5 mt:10">Projet recent</h2>
 
                         <div className="grid grid-cols-1 gap-2 lg:mt-20">
                             <div className="p-2 grid grid-cols-12 gap-0 mb-5">
