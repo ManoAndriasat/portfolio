@@ -61,7 +61,7 @@ export default function RootLayout({
           }}
         />
         <link rel="icon" href="/moi.png" />
-        <link rel="apple-touch-icon" href="/favicon.png" />
+        <link rel="apple-touch-icon" href="/moi.png" />
 
         {/* Google Tag (gtag.js) */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-T7NQFJKW2V"></script>
