@@ -36,14 +36,14 @@ export default function RootLayout({
 
         <meta property="og:title" content="Mano Andriasat - Portfolio" />
         <meta property="og:description" content="Portfolio de ANDRISATARINTSOA Manohisoa Alain alias Mano Andriasat." />
-        <meta property="og:image" content="/moi.png" />
+        <meta property="og:image" content="/moi.ico" />
         <meta property="og:url" content="https://www.facebook.com/mano.andriasat?locale=fr_FR" />
         <meta property="og:type" content="website" />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Mano Andriasat - Portfolio" />
         <meta name="twitter:description" content="Découvrez les projets et compétences de ANDRISATARINTSOA Manohisoa Alain." />
-        <meta name="twitter:image" content="/moi.png" />
+        <meta name="twitter:image" content="/moi.ico" />
 
         <script
           type="application/ld+json"
@@ -55,13 +55,13 @@ export default function RootLayout({
               alternateName: "Mano Andriasat",
               description:
                 "Développeur web, spécialiste en projets technologiques et développement d'applications.",
-              image: "/moi.png",
+              image: "/moi.ico",
               url: "https://www.linkedin.com/in/manohisoa-andriasatarintsoa-5894a1304/",
             }),
           }}
         />
-        <link rel="icon" href="/moi.png" />
-        <link rel="apple-touch-icon" href="/moi.png" />
+        <link rel="icon" href="/moi.ico" />
+        <link rel="apple-touch-icon" href="/moi.ico" />
 
         {/* Google Tag (gtag.js) */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-T7NQFJKW2V"></script>
