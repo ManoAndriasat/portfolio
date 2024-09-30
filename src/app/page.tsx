@@ -1,13 +1,8 @@
-import { useEffect } from 'react';
-import { useRouter } from 'next/navigation';
+import { redirect } from 'next/navigation';
 
 const Home = () => {
-  const router = useRouter();
-
-  useEffect(() => {
-    router.push('/about');
-  }, [router]);
-
+  redirect('/about');
+  
   return null;
 };
 
