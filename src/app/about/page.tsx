@@ -55,7 +55,7 @@ const About = () => {
                     <div className="w-full lg:w-8/12 lg:mt-20">
                         <h2 className="text-sm font-bold uppercase tracking-widest lg:sr-only pb-5">A Propos</h2>
                         <p className="text-white" style={{ color: "#b6b6b7" }}>
-                            J&apos;ai <strong style={{ color: "white", fontWeight: "bold" }}>20 ans</strong> et je réside à <strong style={{ color: "white", fontWeight: "bold" }}>Antananarivo, Madagascar</strong>.
+                            Mon nom complet c'est <strong style={{ color: "white", fontWeight: "bold" }}>ANDRIASATARINTSOA Manohisoa, </strong>j&apos;ai <strong style={{ color: "white", fontWeight: "bold" }}>20 ans</strong> et je réside à <strong style={{ color: "white", fontWeight: "bold" }}>Antananarivo, Madagascar</strong>.
                             Depuis <strong style={{ color: "white", fontWeight: "bold" }}>2021</strong>, je poursuis mes études à <strong style={{ color: "white", fontWeight: "bold" }}>l&apos;IT University Andoharanofotsy</strong>,
                             où je me spécialise dans le <strong style={{ color: "white", fontWeight: "bold" }}>développement</strong>. Actuellement, je suis en <strong style={{ color: "white", fontWeight: "bold" }}>L3</strong> et je me consacre
                             à l&apos;apprentissage de technologies innovantes et à l&apos;amélioration de mes compétences en programmation.
