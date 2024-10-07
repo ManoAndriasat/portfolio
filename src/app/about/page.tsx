@@ -193,9 +193,9 @@ const About = () => {
                                     fev - mar 2024
                                 </div>
                                 <div className="col-span-8">
-                                    <h1 className="font-bold mb-1">Chaîne d'approvisionnement interne<span className="italic text-sm" style={{ color: "#9a53d1" }}>asp.net - html - css</span></h1>
+                                    <h1 className="font-bold mb-1">Chaîne d&apos;approvisionnement interne<span className="italic text-sm" style={{ color: "#9a53d1" }}>asp.net - html - css</span></h1>
                                     <p className="text-white opacity-70">
-                                        Système conçu pour automatiser et optimiser le processus d&apos;achat au sein d&apos;une entreprise, couvrant toutes les étapes, de l'expression des besoins à la facturation, en passant par la validation côté Chef de département, Finance et Directeur.
+                                        Système conçu pour automatiser et optimiser le processus d&apos;achat au sein d&apos;une entreprise, couvrant toutes les étapes, de l&apos;expression des besoins à la facturation, en passant par la validation côté Chef de département, Finance et Directeur.
                                         Projet de groupe de 3 personnes, j&apos;ai contribué à 50% du projet.
                                     </p>
                                     <a href="https://github.com/ManoAndriasat/Systeme-Commerciale"
