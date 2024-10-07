@@ -134,7 +134,7 @@ const About = () => {
                                     <h1 className="font-bold mb-1">Générateur de devis pour construction de maison <span className="italic text-sm" style={{ color: "#9a53d1" }}>asp.net - html - css</span></h1>
                                     <p className="text-white opacity-70">
                                         Projet permettant aux clients de créer des devis personnalisés pour la construction de leur maison, avec un suivi complet de la gestion des devis, 
-                                        du suivi des travaux, et un tableau de bord détaillé pour la gestion du chiffre d'affaires.
+                                        du suivi des travaux, et un tableau de bord détaillé pour la gestion du chiffre d&apos;affaires.
                                     </p>
                                     <a href="https://github.com/ManoAndriasat/house_construction.git"
                                         className="flex items-center"
@@ -154,7 +154,7 @@ const About = () => {
                                 <div className="col-span-8">
                                     <h1 className="font-bold mb-1">Gestion des ressources humaines <span className="italic text-sm" style={{ color: "#9a53d1" }}>asp.net - html - css</span></h1>
                                     <p className="text-white opacity-70">
-                                        Système conçu pour automatiser et optimiser à la fois le processus de gestion des offres et le recrutement des employés à l'aide de QCM. 
+                                        Système conçu pour automatiser et optimiser à la fois le processus de gestion des offres et le recrutement des employés à l&apos;aide de QCM. 
                                         Le projet inclut également la gestion des fiches de paie, des états de paie, ainsi que la gestion des absences et des conges. 
                                         Projet de groupe de 3 personnes, j&apos;ai contribué à 60% du projet.
                                     </p>
