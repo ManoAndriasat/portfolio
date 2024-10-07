@@ -182,7 +182,7 @@ const About = () => {
                                         style={{ color: "rgba(239,99,81,255)" }}
                                         target="_blank"
                                         rel="noopener noreferrer">
-                                        voir sur github <GitHub fontSize="small" className="ml-1" />
+                                        voir sur github <GitHub fontSize="small" className="ml-2" />
                                     </a>
                                 </div>
                             </div>
@@ -203,7 +203,7 @@ const About = () => {
                                         style={{ color: "rgba(239,99,81,255)" }}
                                         target="_blank"
                                         rel="noopener noreferrer">
-                                        voir sur github <GitHub fontSize="small" className="ml-1" />
+                                        voir sur github <GitHub fontSize="small" className="ml-2" />
                                     </a>
                                 </div>
                             </div>
@@ -226,7 +226,7 @@ const About = () => {
                                         style={{ color: "rgba(239,99,81,255)" }}
                                         target="_blank"
                                         rel="noopener noreferrer">
-                                        voir sur github <GitHub fontSize="small" className="ml-1" />
+                                        voir sur github <GitHub fontSize="small" className="ml-2" />
                                     </a>
                                 </div>
                             </div>
@@ -248,7 +248,7 @@ const About = () => {
                                         style={{ color: "rgba(239,99,81,255)" }}
                                         target="_blank"
                                         rel="noopener noreferrer">
-                                        telecharger <Download fontSize="small" className="ml-1" />
+                                        telecharger <Download fontSize="small" className="ml-2" />
                                     </a>
                                 </div>
                             </div>
@@ -271,7 +271,7 @@ const About = () => {
                                         style={{ color: "rgba(239,99,81,255)" }}
                                         target="_blank"
                                         rel="noopener noreferrer">
-                                        voir le site web <Launch fontSize="small" className="ml-1" />
+                                        voir le site web <Launch fontSize="small" className="ml-2" />
                                     </a>
                                 </div>
                             </div>
@@ -292,7 +292,7 @@ const About = () => {
                                         style={{ color: "rgba(239,99,81,255)" }}
                                         target="_blank"
                                         rel="noopener noreferrer">
-                                        voir sur github <GitHub fontSize="small" className="ml-1" />
+                                        voir sur github <GitHub fontSize="small" className="ml-2" />
                                     </a>
                                 </div>
                             </div>
