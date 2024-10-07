@@ -25,9 +25,9 @@ const About = () => {
                 scrollbar-color: white #232426;
             }
         `}</style>
-            <div className="grid grid-cols-1 lg:grid-cols-12">
+            <div className="grid grid-cols-1 lg:grid-cols-12 sm:">
                 <div className="h-0 col-span-1 lg:col-span-2 lg:h-screen bg-transparent"></div>
-                <div className="p-4 lg:col-span-3 lg:h-screen">
+                <div className="p-4 lg:col-span-3 lg:h-screen z-999">
                     <div className="lg:pt-20 lg:pl-10 sm:pt-5 md:pt-5 relative h-full">
                         <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">
                             <a href="/">Hi I&apos;m</a>
@@ -299,6 +299,7 @@ const About = () => {
                         </div>
                     </div>
                 </div>
+
             </div>
         </>
     );

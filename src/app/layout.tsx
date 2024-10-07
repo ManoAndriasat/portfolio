@@ -76,9 +76,10 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`} style={{overflowY:'hidden'}}>
-        {children}
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased overflow-auto lg:overflow-hidden`}>
+          {children}
       </body>
+
     </html>
   );
 }
