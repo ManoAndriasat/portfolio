@@ -7,7 +7,7 @@ const About = () => {
         <>
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-0 h-screen">
                 <div className="h-0 col-span-1 lg:col-span-2 lg:h-screen bg-transparent"></div>
-                <div className="p-4 lg:col-span-4 lg:h-screen">
+                <div className="p-4 lg:col-span-3 lg:h-screen">
                     <div className="lg:pt-20 lg:pl-10 sm:pt-5 md:pt-5 relative h-full">
                         <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">
                             <a href="/">Hi I&apos;m</a>
@@ -51,7 +51,7 @@ const About = () => {
                     </div>
                 </div>
 
-                <div className="p-4 lg:col-span-6 lg:h-screen lg:overflow-y-auto bg-transparent">
+                <div className="p-4 lg:col-span-7 lg:h-screen lg:overflow-y-auto bg-transparent">
                     <div className="w-full lg:w-8/12 lg:mt-20">
                         <h2 className="text-sm font-bold uppercase tracking-widest lg:sr-only pb-5">A Propos</h2>
                         <p className="text-white" style={{ color: "#b6b6b7" }}>
@@ -125,18 +125,18 @@ const About = () => {
                                 </div>
                             </div>
 
+
                             <div className="p-2 grid grid-cols-12 gap-0 mb-5">
-                                <div className="col-span-4 text-sm italic opacity-70" >
-                                    mar - avr 2024
+                                <div className="col-span-4 text-sm italic opacity-70">
+                                    mai 2024
                                 </div>
                                 <div className="col-span-8">
-                                    <h1 className="font-bold mb-1">Système commerciale <span className="italic text-sm" style={{ color: "#9a53d1" }}>asp.net - html - css</span></h1>
+                                    <h1 className="font-bold mb-1">Générateur de devis pour construction de maison <span className="italic text-sm" style={{ color: "#9a53d1" }}>asp.net - html - css</span></h1>
                                     <p className="text-white opacity-70">
-                                        système conçu pour automatiser et optimiser le
-                                        processus d&apos;achat au sein d&apos;une entreprise
-                                        Projet de groupe de 3 personnes, j&apos;ai contribué à 40% du projet
+                                        Projet permettant aux clients de créer des devis personnalisés pour la construction de leur maison, avec un suivi complet de la gestion des devis, 
+                                        du suivi des travaux, et un tableau de bord détaillé pour la gestion du chiffre d'affaires.
                                     </p>
-                                    <a href="https://github.com/ManoAndriasat/Systeme-Commerciale"
+                                    <a href="https://github.com/ManoAndriasat/house_construction.git"
                                         className="flex items-center"
                                         style={{ color: "rgba(239,99,81,255)" }}
                                         target="_blank"
@@ -146,9 +146,32 @@ const About = () => {
                                 </div>
                             </div>
 
+
                             <div className="p-2 grid grid-cols-12 gap-0 mb-5">
                                 <div className="col-span-4 text-sm italic opacity-70" >
                                     fev - mar 2024
+                                </div>
+                                <div className="col-span-8">
+                                    <h1 className="font-bold mb-1">Gestion des ressources humaines <span className="italic text-sm" style={{ color: "#9a53d1" }}>asp.net - html - css</span></h1>
+                                    <p className="text-white opacity-70">
+                                        Système conçu pour automatiser et optimiser à la fois le processus de gestion des offres et le recrutement des employés à l'aide de QCM. 
+                                        Le projet inclut également la gestion des fiches de paie, des états de paie, ainsi que la gestion des absences et des conges. 
+                                        Projet de groupe de 3 personnes, j&apos;ai contribué à 60% du projet.
+                                    </p>
+                                    <a href="https://github.com/ManoAndriasat/Ressource-Humaine.git"
+                                        className="flex items-center"
+                                        style={{ color: "rgba(239,99,81,255)" }}
+                                        target="_blank"
+                                        rel="noopener noreferrer">
+                                        voir sur github <GitHub fontSize="small" className="ml-1" />
+                                    </a>
+                                </div>
+                            </div>
+
+
+                            <div className="p-2 grid grid-cols-12 gap-0 mb-5">
+                                <div className="col-span-4 text-sm italic opacity-70" >
+                                    jan - mar 2024
                                 </div>
                                 <div className="col-span-8">
                                     <h1 className="font-bold mb-1">CRUD Generator <span className="italic text-sm" style={{ color: "#9a53d1" }}>java - vueJs</span></h1>
@@ -164,6 +187,28 @@ const About = () => {
                                         target="_blank"
                                         rel="noopener noreferrer">
                                         voir sur github <GitHub fontSize="small" className="ml-1" />
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div className="p-2 grid grid-cols-12 gap-0 mb-5">
+                                <div className="col-span-4 text-sm italic opacity-70" >
+                                    jan - fev 2024
+                                </div>
+                                <div className="col-span-8">
+                                    <h1 className="font-bold mb-1">Application android - gestion vente voiture <span className="italic text-sm" style={{ color: "#9a53d1" }}>ionic react</span></h1>
+                                    <p className="text-white opacity-70">
+                                        C&apos;est une application mobile qui permet de gérer les ventes de voitures d&apos;occasion le site web, enregistrer les informations des clients et des véhicules.
+                                    </p>
+                                    <p className="text-white opacity-70">
+                                        Projet de groupe de 4 personnes, j&apos;ai contribué à 100% de l&apos;interface mobile ainsi que le deployement.
+                                    </p>
+                                    <a href="https://drive.google.com/file/d/1AlMbnATO4C2aezuQ2OzbaDKpsmK8SJGD/view?fbclid=IwY2xjawFjrThleHRuA2FlbQIxMAABHeJEhGilXkSdTxsX6agX3ZrVkxBlWxLfyd6ohzhCPjU1DKWGwTt_kLgNQQ_aem_jM1e_5ZXlAdO0W4WgI1K4w"
+                                        className="flex items-center"
+                                        style={{ color: "rgba(239,99,81,255)" }}
+                                        target="_blank"
+                                        rel="noopener noreferrer">
+                                        telecharger <Launch fontSize="small" className="ml-1" />
                                     </a>
                                 </div>
                             </div>
@@ -187,28 +232,6 @@ const About = () => {
                                         target="_blank"
                                         rel="noopener noreferrer">
                                         voir le site web <Launch fontSize="small" className="ml-1" />
-                                    </a>
-                                </div>
-                            </div>
-
-                            <div className="p-2 grid grid-cols-12 gap-0 mb-5">
-                                <div className="col-span-4 text-sm italic opacity-70" >
-                                    jan - fev 2024
-                                </div>
-                                <div className="col-span-8">
-                                    <h1 className="font-bold mb-1">Application android - gestion vente voiture <span className="italic text-sm" style={{ color: "#9a53d1" }}>ionic react</span></h1>
-                                    <p className="text-white opacity-70">
-                                        C&apos;est une application mobile qui permet de gérer les ventes de voitures d&apos;occasion le site web, enregistrer les informations des clients et des véhicules.
-                                    </p>
-                                    <p className="text-white opacity-70">
-                                        Projet de groupe de 4 personnes, j&apos;ai contribué à 100% de l&apos;interface mobile ainsi que le deployement.
-                                    </p>
-                                    <a href="https://drive.google.com/file/d/1AlMbnATO4C2aezuQ2OzbaDKpsmK8SJGD/view?fbclid=IwY2xjawFjrThleHRuA2FlbQIxMAABHeJEhGilXkSdTxsX6agX3ZrVkxBlWxLfyd6ohzhCPjU1DKWGwTt_kLgNQQ_aem_jM1e_5ZXlAdO0W4WgI1K4w"
-                                        className="flex items-center"
-                                        style={{ color: "rgba(239,99,81,255)" }}
-                                        target="_blank"
-                                        rel="noopener noreferrer">
-                                        telecharger <Launch fontSize="small" className="ml-1" />
                                     </a>
                                 </div>
                             </div>
