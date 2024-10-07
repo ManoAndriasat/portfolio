@@ -216,7 +216,7 @@ const About = () => {
                                 <div className="col-span-8">
                                     <h1 className="font-bold mb-1">CRUD Generator <span className="italic text-sm" style={{ color: "#9a53d1" }}>java - vueJs</span></h1>
                                     <p className="text-white opacity-70">
-                                        Générateur de CRUD d&apos;une API : Spring Boot, interface web : Vue.js, à partir d&apos;une base de données. Il génère automatiquement l'authentification, l'inscription, la navigation, les opérations CRUD, l'importation PDF, et la pagination, le tout avec un bon design.
+                                        Générateur de CRUD d&apos;une API : Spring Boot, interface web : Vue.js, à partir d&apos;une base de données. Il génère automatiquement l&apos;authentification, l&apos;inscription, la navigation, les opérations CRUD, l&apos;importation PDF, et la pagination, le tout avec un bon design.
                                     </p>
                                     <p className="text-white opacity-70">
                                         Projet de groupe de 2 personnes, j&apos;ai contribué à 50% du projet.
