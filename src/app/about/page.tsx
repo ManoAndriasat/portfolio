@@ -179,7 +179,7 @@ const About = () => {
                                     </p>
                                     <a href="https://github.com/ManoAndriasat/house_construction.git"
                                         className="flex items-center"
-                                        style={{ color: "rgba(239,99,81,255)" }}
+                                        style={{ color: "rgba(239,99,81,255)" , marginTop: "10px" }}
                                         target="_blank"
                                         rel="noopener noreferrer">
                                         voir sur github <GitHub fontSize="small" className="ml-2" />
@@ -200,7 +200,7 @@ const About = () => {
                                     </p>
                                     <a href="https://github.com/ManoAndriasat/Systeme-Commerciale"
                                         className="flex items-center"
-                                        style={{ color: "rgba(239,99,81,255)" }}
+                                        style={{ color: "rgba(239,99,81,255)" , marginTop: "10px" }}
                                         target="_blank"
                                         rel="noopener noreferrer">
                                         voir sur github <GitHub fontSize="small" className="ml-2" />
@@ -223,7 +223,7 @@ const About = () => {
                                     </p>
                                     <a href="https://github.com/judi1968/Generate-crud-Pagination-and-Auth"
                                         className="flex items-center"
-                                        style={{ color: "rgba(239,99,81,255)" }}
+                                        style={{ color: "rgba(239,99,81,255)" , marginTop: "10px" }}
                                         target="_blank"
                                         rel="noopener noreferrer">
                                         voir sur github <GitHub fontSize="small" className="ml-2" />
@@ -245,7 +245,7 @@ const About = () => {
                                     </p>
                                     <a href="https://drive.google.com/file/d/1AlMbnATO4C2aezuQ2OzbaDKpsmK8SJGD/view?fbclid=IwY2xjawFjrThleHRuA2FlbQIxMAABHeJEhGilXkSdTxsX6agX3ZrVkxBlWxLfyd6ohzhCPjU1DKWGwTt_kLgNQQ_aem_jM1e_5ZXlAdO0W4WgI1K4w"
                                         className="flex items-center"
-                                        style={{ color: "rgba(239,99,81,255)" }}
+                                        style={{ color: "rgba(239,99,81,255)" , marginTop: "10px" }}
                                         target="_blank"
                                         rel="noopener noreferrer">
                                         telecharger <Download fontSize="small" className="ml-2" />
@@ -268,7 +268,7 @@ const About = () => {
                                     </p>
                                     <a href="https://varotravam.netlify.app/"
                                         className="flex items-center"
-                                        style={{ color: "rgba(239,99,81,255)" }}
+                                        style={{ color: "rgba(239,99,81,255)" , marginTop: "10px" }}
                                         target="_blank"
                                         rel="noopener noreferrer">
                                         voir le site web <Launch fontSize="small" className="ml-2" />
@@ -289,7 +289,7 @@ const About = () => {
                                     </p>
                                     <a href="https://github.com/ManoAndriasat/Ressource-Humaine.git"
                                         className="flex items-center"
-                                        style={{ color: "rgba(239,99,81,255)" }}
+                                        style={{ color: "rgba(239,99,81,255)" , marginTop: "10px" }}
                                         target="_blank"
                                         rel="noopener noreferrer">
                                         voir sur github <GitHub fontSize="small" className="ml-2" />
