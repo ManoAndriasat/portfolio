@@ -12,7 +12,7 @@ const About = () => {
             }
 
             ::-webkit-scrollbar-thumb {
-                background: rgba(239,99,81,255);
+                background: white;
                 border-radius: 10px;
             }
 
@@ -22,7 +22,7 @@ const About = () => {
 
             .scrollbar {
                 scrollbar-width: thin;
-                scrollbar-color: rgba(239,99,81,255) #f1f1f1;
+                scrollbar-color: white #232426;
             }
         `}</style>
             <div className="grid grid-cols-1 lg:grid-cols-12">
@@ -107,7 +107,7 @@ const About = () => {
                         <h2 className="text-sm font-bold uppercase tracking-widest lg:sr-only pb-5 pt-5 mt:10">Experience</h2>
 
                         <div className="grid grid-cols-1 gap-2 lg:mt-20">
-                            <div className="border p-2 grid grid-cols-12 gap-0 mb-5" style={{ boxShadow: "10px 5px 0 #6bff89", padding: "20px" }}>
+                            <div className="border p-2 grid grid-cols-12 gap-0 mb-5" style={{ boxShadow: "6px 6px 0 #6bff89", padding: "20px" }}>
                                 <div className="col-span-4 text-sm italic opacity-70" >
                                     jun - jul 2024
                                 </div>
@@ -120,7 +120,7 @@ const About = () => {
                                 </div>
                             </div>
 
-                            <div className="border p-2 grid grid-cols-12 gap-0 mb-5" style={{ boxShadow: "10px 5px 0 #6bff89", padding: "20px" }}>
+                            <div className="border p-2 grid grid-cols-12 gap-0 mb-5" style={{ boxShadow: "6px 6px 0 #6bff89", padding: "20px" }}>
                                 <div className="col-span-4 text-sm italic opacity-70" >
                                     jun 2024 - aujourd&apos;hui
                                 </div>
@@ -189,17 +189,16 @@ const About = () => {
 
 
                             <div className="p-2 grid grid-cols-12 gap-0 mb-5">
-                                <div className="col-span-4 text-sm italic opacity-70" >
+                                <div className="col-span-4 text-sm italic opacity-70">
                                     fev - mar 2024
                                 </div>
                                 <div className="col-span-8">
-                                    <h1 className="font-bold mb-1">Gestion des ressources humaines <span className="italic text-sm" style={{ color: "#9a53d1" }}>asp.net - html - css</span></h1>
+                                    <h1 className="font-bold mb-1">Chaîne d'approvisionnement interne<span className="italic text-sm" style={{ color: "#9a53d1" }}>asp.net - html - css</span></h1>
                                     <p className="text-white opacity-70">
-                                        Système conçu pour automatiser et optimiser à la fois le processus de gestion des offres et le recrutement des employés à l&apos;aide de QCM.
-                                        Le projet inclut également la gestion des fiches de paie, des états de paie, ainsi que la gestion des absences et des conges.
-                                        Projet de groupe de 3 personnes, j&apos;ai contribué à 60% du projet.
+                                        Système conçu pour automatiser et optimiser le processus d&apos;achat au sein d&apos;une entreprise, couvrant toutes les étapes, de l'expression des besoins à la facturation, en passant par la validation côté Chef de département, Finance et Directeur.
+                                        Projet de groupe de 3 personnes, j&apos;ai contribué à 50% du projet.
                                     </p>
-                                    <a href="https://github.com/ManoAndriasat/Ressource-Humaine.git"
+                                    <a href="https://github.com/ManoAndriasat/Systeme-Commerciale"
                                         className="flex items-center"
                                         style={{ color: "rgba(239,99,81,255)" }}
                                         target="_blank"
@@ -273,6 +272,27 @@ const About = () => {
                                         target="_blank"
                                         rel="noopener noreferrer">
                                         voir le site web <Launch fontSize="small" className="ml-1" />
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div className="p-2 grid grid-cols-12 gap-0 mb-5">
+                                <div className="col-span-4 text-sm italic opacity-70" >
+                                    nov - dec 2023
+                                </div>
+                                <div className="col-span-8">
+                                    <h1 className="font-bold mb-1">Gestion des ressources humaines <span className="italic text-sm" style={{ color: "#9a53d1" }}>asp.net - html - css</span></h1>
+                                    <p className="text-white opacity-70">
+                                        Système conçu pour automatiser et optimiser à la fois le processus de gestion des offres et le recrutement des employés à l&apos;aide de QCM.
+                                        Le projet inclut également la gestion des fiches de paie, des états de paie, ainsi que la gestion des absences et des conges.
+                                        Projet de groupe de 3 personnes, j&apos;ai contribué à 60% du projet.
+                                    </p>
+                                    <a href="https://github.com/ManoAndriasat/Ressource-Humaine.git"
+                                        className="flex items-center"
+                                        style={{ color: "rgba(239,99,81,255)" }}
+                                        target="_blank"
+                                        rel="noopener noreferrer">
+                                        voir sur github <GitHub fontSize="small" className="ml-1" />
                                     </a>
                                 </div>
                             </div>
