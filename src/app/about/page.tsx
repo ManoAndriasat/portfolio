@@ -35,7 +35,7 @@ const About = () => {
                             <a href="/"><span style={{ color: "rgba(239,99,81,255)" }}>Mano</span> Andriasat</a>
                         </h1>
                         <h2 className="mt-3 text-lg font-medium sm:text-xl">
-                            Designer / Front-end Developer
+                            Back-end Developer
                         </h2>
                         <h3 className="mt-3 text-sm sm:text-base" style={{ color: "#a1a0a0" }}>
                             ma.andriasat@gmail.com
